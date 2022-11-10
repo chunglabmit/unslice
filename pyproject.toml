@@ -1,0 +1,11 @@
+[project]
+name = "UNSLICE"
+version = "0.0.1"
+authors = [ { name = "Webster Guan", email="wjguan@mit.edu"},]
+description = "Python package for computational reconstruction of sliced tissue slabs"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+	"Programming Language :: Python :: 3",
+	"License :: OSI Approved :: MIT License",
+	"Operation System :: OS Independent",]
